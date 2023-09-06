@@ -8,6 +8,7 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 <div align="center">
 <img src="https://www.fhgr.ch/typo3conf/ext/sfptemplate/RootPage/Default/Resources/Public/Partials/Logo/Images/Logo.svg" width="30%">
 </div>
+
 ## Table of Contents
 1. [Visual Studio Code](#visual-studio-code)
 2. [Github](#github)
