@@ -1,58 +1,35 @@
-# Project Name
+# 101 MMP
 
-Short project description or introduction.
-
+In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen für einen gelungen Start in interaktive Medien abgelegt. Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
+<div align="center">
+  <sub>Dies ist Version 0.1</sub>
+</div>
+<br>
+<div align="center">
+<img src="https://www.fhgr.ch/typo3conf/ext/sfptemplate/RootPage/Default/Resources/Public/Partials/Logo/Images/Logo.svg" width="30%">
+</div>
 ## Table of Contents
-1. [Chapter 1: Getting Started](#chapter-1-getting-started)
-2. [Chapter 2: Installation](#chapter-2-installation)
+1. [Visual Studio Code](#visual-studio-code)
+2. [Github](#github)
 3. [Chapter 3: Usage](#chapter-3-usage)
 4. [Chapter 4: Configuration](#chapter-4-configuration)
 5. [Chapter 5: Contributing](#chapter-5-contributing)
 
-## Chapter 1: Getting Started
-Provide an introduction to your project and explain what it aims to achieve. You can include important background information and any prerequisites that users should be aware of.
+## Visual Studio Code
+VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
+### Installation VS Code
+[Download und Installation VS Code](https://code.visualstudio.com/)
 
-### Getting Started Section 1
-Provide more detailed information about the first aspect of getting started with your project.
 
-### Getting Started Section 2
-Add more content here as needed.
+### Installation Extensions
+[FTP Simple](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) eine Erweiterung die es ermöglicht Dateien auf einen Server zu laden
 
-## Chapter 2: Installation
-Explain how to install your project or set it up in the user's environment. You can include code snippets or commands as necessary.
+[Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ein digitale Assistent, der einem beim Coden unter die Arme greift (AI Tool)
 
-### Installation Section 1
-Provide specific installation instructions or requirements.
+### Weitere nützliche Extensions (nicht zwingend notwendig)
 
-### Installation Section 2
-Add more content here as needed.
-
-## Chapter 3: Usage
-Demonstrate how to use your project. Include examples and usage scenarios to help users understand how it works.
-
-### Usage Section 1
-Explain a specific usage aspect of your project.
-
-### Usage Section 2
-Add more content here as needed.
-
-## Chapter 4: Configuration
-Explain how users can configure your project, including any settings, options, or customization possibilities.
-
-### Configuration Section 1
-Provide specific configuration instructions.
-
-### Configuration Section 2
-Add more content here as needed.
-
-## Chapter 5: Contributing
-Explain how others can contribute to your project, whether through bug reports, feature requests, or code contributions.
-
-### Contributing Section 1
-Provide guidelines for contributing to your project.
-
-### Contributing Section 2
-Add more content here as needed.
-
-## License
-This project is licensed under the [License Name](LICENSE) - Provide a link to your project's license file.
+### Weitere Anleitungen
+- Initialisierung FTP Simple & Hochschulserver
+- [Coding Conventions FHGR](https://github.com/MaxiMilli/MMP-Coding-Conventions)
+## Github
+GitHub ist ein Service, der in erster Linie für die Versionskontrolle und die Zusammenarbeit bei der Entwicklung von Webprojekten verwendet wird. Entwickler nutzen GitHub, um ihren Code online zu speichern, zu verwalten und gemeinsam mit anderen daran zu arbeiten. Es ist eine Art Dropbox für Code.
