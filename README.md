@@ -42,7 +42,7 @@ Die wichtigstens Schritte sind in der nachfolgenden Aufzählung enthalten.
 
 1. [Registrierung Github Konto](https://education.github.com/students). Nutzt die FHGR Mail Adresse damit ihr von den [Benefits](https://education.github.com/pack/offers) profitieren könnt. Dazu gehört auch der Github Copilot.
 2. [Download Github Desktop App](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot). Mit dieser können die lokalen Dateien mit dem Repository abgeglichen werden.
-3. [Ein Repository erstellen](https://docs.github.com/de/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop). Erstellt ein erstes Repository mit den Dateien, welche im Ordner Start liegen.
+3. [Ein Repository erstellen](https://docs.github.com/de/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop). Erstellt ein erstes Repository mit den Dateien, welche im Ordner 00_start liegen.
 
 
 ### Zusammenarbeit
