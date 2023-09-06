@@ -61,13 +61,13 @@ Repositorys können von mehreren Personen bearbeitet werden. Um dies zu ermögli
 Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
 
 # Zweites Semester
-Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+Hier werden spezifische Dokumentationen und Anleitungen zum 2. Semester ergänzt.
 
 # Drittes Semester
-Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+Hier werden spezifische Dokumentationen und Anleitungen zum 3. Semester ergänzt.
 
 # Viertes Semester
-Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+Hier werden spezifische Dokumentationen und Anleitungen zum 4. Semester ergänzt.
 
 # Fünftes Semester
-Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+Hier werden spezifische Dokumentationen und Anleitungen zum 5. Semester ergänzt.
