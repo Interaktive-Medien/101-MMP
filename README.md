@@ -14,7 +14,11 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 1. [Visual Studio Code](#visual-studio-code)
 2. [Github](#github)
 
-### Erstes Semester
+### [Erstes Semester](#ertes-semester)
+### [Zweites Semester](#zweites-semester)
+### [Drittes Semester](#drittes-semester)
+### [Viertes Semester](#viertes-semester)
+### [Fünftes Semester](#fünftes-semester)
 
 # Alle Semester
 
@@ -53,4 +57,17 @@ Die wichtigstens Schritte sind in der nachfolgenden Aufzählung enthalten.
 Repositorys können von mehreren Personen bearbeitet werden. Um dies zu ermögliche muss der Administrator eines Repositorys den anderen Personen die Rechte erteilen. Hier ist die [Dokumentation](https://docs.github.com/de/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository) zu diesem Thema zu finden.
 
 
-##
+# Erstes Semester
+Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+
+# Zweites Semester
+Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+
+# Drittes Semester
+Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+
+# Viertes Semester
+Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
+
+# Fünftes Semester
+Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt.
