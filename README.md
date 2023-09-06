@@ -12,9 +12,7 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 ## Table of Contents
 1. [Visual Studio Code](#visual-studio-code)
 2. [Github](#github)
-3. [Chapter 3: Usage](#chapter-3-usage)
-4. [Chapter 4: Configuration](#chapter-4-configuration)
-5. [Chapter 5: Contributing](#chapter-5-contributing)
+
 
 ## Visual Studio Code
 VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
