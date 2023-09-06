@@ -14,11 +14,11 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 1. [Visual Studio Code](#visual-studio-code)
 2. [Github](#github)
 
-### [Erstes Semester](#ertes-semester)
-### [Zweites Semester](#zweites-semester)
-### [Drittes Semester](#drittes-semester)
-### [Viertes Semester](#viertes-semester)
-### [Fünftes Semester](#fünftes-semester)
+### [Erstes Semester](#ertes-semester-1)
+### [Zweites Semester](#zweites-semester-1)
+### [Drittes Semester](#drittes-semester-1)
+### [Viertes Semester](#viertes-semester-1)
+### [Fünftes Semester](#fünftes-semester-1)
 
 # Alle Semester
 
