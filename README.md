@@ -24,6 +24,7 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 
 ## Visual Studio Code
 ((vscode ist ein code-editor primär)) VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
+
 ### Installation VS Code
 [Download und Installation VS Code](https://code.visualstudio.com/)
 
@@ -32,6 +33,8 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 [FTP Simple](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) eine Erweiterung die es ermöglicht Dateien auf einen Server zu laden
 
 [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ein digitale Assistent, der einem beim Coden unter die Arme greift (AI Tool)
+
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) ein schneller Entwicklungs-Server mit 'Hot-Reload'
 
 ### Weitere nützliche Extensions (nicht zwingend notwendig)
 
