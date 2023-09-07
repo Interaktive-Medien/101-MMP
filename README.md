@@ -34,13 +34,16 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 
 [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ein digitale Assistent, der einem beim Coden unter die Arme greift (AI Tool)
 
-[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) ein schneller Entwicklungs-Server mit 'Hot-Reload'
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) ein lokaler Entwicklungs-Server mit 'Hot-Reload'
 
 ### Weitere nützliche Extensions (nicht zwingend notwendig)
+
+[vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) öffne PDF Dateien direkt in VS Code
 
 ### Weitere Anleitungen
 - Initialisierung FTP Simple & Hochschulserver
 - [Coding Conventions FHGR](https://github.com/MaxiMilli/MMP-Coding-Conventions)
+
 ## Github
 GitHub ist ein Service, der in erster Linie für die Versionskontrolle und die Zusammenarbeit bei der Entwicklung von Webprojekten verwendet wird. Entwickler nutzen GitHub, um ihren Code online zu speichern, zu verwalten und gemeinsam mit anderen daran zu arbeiten. Es ist eine Art Dropbox für Code.
 
