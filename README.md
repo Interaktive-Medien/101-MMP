@@ -30,7 +30,7 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 
 
 ### Installation Extensions
-[FTP Simple](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) eine Erweiterung die es ermöglicht Dateien auf einen Server zu laden
+[FTP Simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple) eine Erweiterung die es ermöglicht Dateien auf einen Server zu laden
 
 [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ein digitale Assistent, der einem beim Coden unter die Arme greift (AI Tool)
 
