@@ -23,7 +23,7 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 # Alle Semester
 
 ## Visual Studio Code
-VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
+((vscode ist ein code-editor primär)) VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
 ### Installation VS Code
 [Download und Installation VS Code](https://code.visualstudio.com/)
 
