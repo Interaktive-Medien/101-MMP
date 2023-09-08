@@ -2,7 +2,7 @@
 
 In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen für einen gelungen Start in interaktive Medien abgelegt. Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 <div align="center">
-  <sub>Dies ist Version 0.1</sub>
+  <sub>Dies ist Version 0.2</sub>
 </div>
 <br>
 <div align="center">
@@ -23,7 +23,7 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 # Alle Semester
 
 ## Visual Studio Code
-((vscode ist ein code-editor primär)) VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
+VS ist ein Code Editor. Dieser wird eingesetzt um Webapplikationen zu erstellen. VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
 
 ### Installation VS Code
 [Download und Installation VS Code](https://code.visualstudio.com/)
