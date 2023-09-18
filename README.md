@@ -14,7 +14,7 @@ In diesem Repository sind sämtliche Anleitungen, Ordnerstrukturen und Vorlagen 
 1. [Visual Studio Code](#visual-studio-code)
 2. [Github](#github)
 
-### [Erstes Semester](#ertes-semester-1)
+### [Erstes Semester](#erstes-semester-1)
 ### [Zweites Semester](#zweites-semester-1)
 ### [Drittes Semester](#drittes-semester-1)
 ### [Viertes Semester](#viertes-semester-1)
@@ -70,8 +70,17 @@ Hier werden spezifische Dokumentationen und Anleitungen zum 1. Semester ergänzt
 Hier werden spezifische Dokumentationen und Anleitungen zum 2. Semester ergänzt.
 
 # Drittes Semester
+
+## Supabase
 [Supabase Dokumentation](https://supabase.com/docs)
-Hier werden spezifische Dokumentationen und Anleitungen zum 3. Semester ergänzt.
+
+## Github Repository
+### [Github erste Schritte](#github)
+
+[Erstellen eines Github Repository](https://docs.github.com/de/get-started/quickstart/create-a-repo)
+
+[Teamarbeit auf Github](https://docs.github.com/de/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+
 
 # Viertes Semester
 Hier werden spezifische Dokumentationen und Anleitungen zum 4. Semester ergänzt.
