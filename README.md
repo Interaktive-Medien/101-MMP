@@ -75,7 +75,14 @@ Hier werden spezifische Dokumentationen und Anleitungen zum 2. Semester ergänzt
 [Supabase Dokumentation](https://supabase.com/docs)
 
 ## Github Repository
-### [Github erste Schritte](#github)
+Jedes Projekt muss als Github Respository abgegeben werden. Dazu können die Infos von [Github erste Schritte](#github) genutzt werden. Anschliessend können folgende vier Schritte ausgeführt werden.
+
+1. Projekt auf Github erstellen
+2. Teammitglieder einladen
+3. Startdateien in das Repository laden
+4. Projekt auf dem lokalen Rechner klonen
+
+Anschliessend kann als Team auf Github gearbeitet werden.
 
 # Viertes Semester
 Hier werden spezifische Dokumentationen und Anleitungen zum 4. Semester ergänzt.
