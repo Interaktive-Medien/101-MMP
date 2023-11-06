@@ -30,7 +30,7 @@ VS ist ein Code Editor. Dieser wird eingesetzt um Webapplikationen zu erstellen.
 
 
 ### Installation Extensions
-[FTP Simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple) eine Erweiterung die es ermöglicht Dateien auf einen Server zu laden
+[SFTP](https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp) eine Erweiterung die es ermöglicht Dateien auf einen Server zu laden
 
 [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ein digitale Assistent, der einem beim Coden unter die Arme greift (AI Tool)
 
