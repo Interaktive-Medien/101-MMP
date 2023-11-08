@@ -15,4 +15,6 @@ VS ist ein Code Editor. Dieser wird eingesetzt um Webapplikationen zu erstellen.
 
 [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) öffne PDF Dateien direkt in VS Code
 
-## Weitere Anleitungen
+### Nützliche Links
+- [Shortcuts Windows](https://visualstudio.microsoft.com/keyboard-shortcuts.pdf)
+- [Shortcuts Mac](https://dl01.blob.core.windows.net/pdf/vs-and-vsmac-quick-reference.pdf)

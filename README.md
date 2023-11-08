@@ -24,6 +24,11 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [GitHub](resources/github.md)
 
+### Nützliche Links
+- [Flexbox Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Grid Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS Snippets](https://www.30secondsofcode.org/css/p/1/)
+
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
