@@ -18,7 +18,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
 - [GitHub](resources/github.md)
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
-- [Supabase Setup](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
+- [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
 
 ## 1. Semester
 - [Ausbildungsserver](resources/ausbildungsserver.md)
