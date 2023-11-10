@@ -162,3 +162,24 @@ Gib folgende Informationen ein:
 ![](images/studiserver_15.png)
 
 - In der `sftp.json` stimmt der `Benutzername` oder das `Passwort` nicht.
+
+
+#### Can't create directory: Operation not permitted
+
+![](images/studiserver_17.png)
+
+- Die `sftp.json` Datei wurde nicht mit der Datei aus dieser Anleitung überschrieben. Ersetze den **GESAMTEN INHALT** von `sftp.json` mit untenstehendem Inhalt. 
+- Ersetze dann `host`, `username` und `password` mit den Informationen von deinem Ausbildungsserver.
+
+```
+{
+    "name": "FHGR IM 1",
+    "host": "replace-this-hostname",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "replace-this-username",
+    "password": "replace-this-password",
+    "remotePath": "web/",
+    "uploadOnSave": true
+}
+```
