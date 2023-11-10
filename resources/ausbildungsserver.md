@@ -140,6 +140,13 @@ Gib folgende Informationen ein:
 
 ## SFTP Fehler verstehen und beheben
 
+- [JSON at position x](#json-at-position-x)
+- [Timed out while waiting for handshake](#timed-out-while-waiting-for-handshake)
+- [Timeout while connecting to server](#timeout-while-connecting-to-server)
+- [Login authentication failed](#login-authentication-failed)
+- [Can't create directory: Operation not permitted](#cant-create-directory-operation-not-permitted)
+
+
 #### JSON at position x
 
 ![](images/studiserver_16.png)
@@ -168,8 +175,10 @@ Gib folgende Informationen ein:
 
 ![](images/studiserver_17.png)
 
-- Die `sftp.json` Datei wurde nicht mit der Datei aus dieser Anleitung überschrieben. Ersetze den **GESAMTEN INHALT** von `sftp.json` mit untenstehendem Inhalt. 
-- Ersetze dann `host`, `username` und `password` mit den Informationen von deinem Ausbildungsserver.
+- Die `sftp.json` Datei wurde nicht mit der Datei aus dieser Anleitung überschrieben. 
+
+1) Ersetze den **GESAMTEN INHALT** von `sftp.json` mit untenstehendem Inhalt. 
+2) Ersetze dann `host`, `username` und `password` mit den Informationen von deinem Ausbildungsserver.
 
 ```
 {
