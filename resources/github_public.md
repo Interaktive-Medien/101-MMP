@@ -14,6 +14,8 @@ Hier findest du die offizielle Anleitung von GitHub dazu: [Dateien Ignorieren](h
 
 ## 2) Stelle dein Repository auf Public
 
+Offizielle Anleitung von GitHub: [Changing repository visibility](https://docs.github.com/de/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)
+
 1) Gehe auf [GitHub](https://www.github.com) und logge dich ein.
 2) Wähle in der Seitenleiste dein Repository aus.
 3) Klicke auf `Settings` (oben rechts).
