@@ -3,6 +3,10 @@ GitHub ist ein Service, der in erster Linie für die Versionskontrolle und die Z
 
 Sämtliche Projekte werden in den interaktiven Medien als Github Repository abgegeben. Wie dieses während des Semesters geführt und gepflegt wird, fliesst in die Notengebung mit ein.
 
+## Quicklinks
+
+- [Ein Repository auf Public stellen](github_public.md)
+
 ## Erste Schritte
 Hier ist eine [vollständige Dokumentation](https://docs.github.com/de/get-started/onboarding/getting-started-with-your-github-account), wie Github funktioniert und wie es genutzt werden kann.
 

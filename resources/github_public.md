@@ -42,3 +42,6 @@ Hier findest du die offizielle Anleitung von GitHub dazu: [Dateien Ignorieren](h
 
 Dein Repository ist nun `Public`.
 
+## Quicklinks
+
+[GitHub](github.md)
