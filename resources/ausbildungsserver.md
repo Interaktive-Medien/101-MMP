@@ -112,7 +112,11 @@ Gib folgende Informationen ein:
     "username": "replace-this-username",
     "password": "replace-this-password",
     "remotePath": "web/",
-    "uploadOnSave": true
+    "uploadOnSave": true,
+    "ignore": [
+        ".vscode",
+        ".git"
+    ]
 }
 ```
 
@@ -189,6 +193,10 @@ Gib folgende Informationen ein:
     "username": "replace-this-username",
     "password": "replace-this-password",
     "remotePath": "web/",
-    "uploadOnSave": true
+    "uploadOnSave": true,
+    "ignore": [
+        ".vscode",
+        ".git"
+    ]
 }
 ```
