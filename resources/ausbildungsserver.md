@@ -9,6 +9,29 @@ Step-by-Step Anleitung, um einen Ausbildungsserver zu erstellen und Dateien  hoc
 - [Mit dem Ausbildungsserver verbinden](#mit-dem-ausbildungsserver-verbinden)
 - [SFTP Fehler verstehen und beheben](#sftp-fehler-verstehen-und-beheben)
 
+## Quicklink Konfiguration
+
+Bitte verwendet ab sofort diese Konfiguration für eure `sftp.json` Datei (gesamten Inhalt ersetzen):
+
+```
+
+{
+    "name": "FHGR IM 1",
+    "host": "replace-this-hostname",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "replace-this-username",
+    "password": "replace-this-password",
+    "remotePath": "web/",
+    "uploadOnSave": true,
+    "ignore": [
+        ".vscode",
+        ".git"
+    ]
+}
+
+```
+
 ## Portal Ausbildungsserver
 
 1) Gehe auf [https://my.fhgr.ch/index.php?id=ftpstud](https://my.fhgr.ch/index.php?id=ftpstud)
