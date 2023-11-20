@@ -29,8 +29,6 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Flexbox Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Grid Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Snippets](https://www.30secondsofcode.org/css/p/1/)
-- [VS Code Shortcuts Mac](https://dl01.blob.core.windows.net/pdf/vs-and-vsmac-quick-reference.pdf)
-- [VS Code Shortcuts Windows](https://visualstudio.microsoft.com/keyboard-shortcuts.pdf)
 
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
