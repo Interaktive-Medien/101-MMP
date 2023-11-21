@@ -30,6 +30,16 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Grid Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Snippets](https://www.30secondsofcode.org/css/p/1/)
 
+#### Flexbox Games
+- [Flexbox Froggy](https://flexboxfroggy.com/#de)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)
+
+#### Grid Games
+- [Grid Garden](https://cssgridgarden.com/#de)
+- [Grid Attack](https://codingfantasy.com/games/css-grid-attack)
+- [Grid It](https://grid-it.ninagraessli.ch/)
+
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
