@@ -13,7 +13,7 @@ Step-by-Step Anleitung, um einen Ausbildungsserver zu erstellen und Dateien  hoc
 
 Bitte verwendet ab sofort diese Konfiguration für eure `sftp.json` Datei (gesamten Inhalt ersetzen):
 
-```
+```JSON
 
 {
     "name": "FHGR IM 1",
