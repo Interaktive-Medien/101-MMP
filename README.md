@@ -30,6 +30,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Grid Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Snippets](https://www.30secondsofcode.org/css/p/1/)
 - [Grid It](https://grid-it.ninagraessli.ch/)
+- [Squoosh (Bilder optimieren fürs Web)](https://squoosh.app/)
 
 #### Flexbox Games
 - [Flexbox Froggy](https://flexboxfroggy.com/#de)
