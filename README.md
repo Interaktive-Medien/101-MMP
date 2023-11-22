@@ -24,22 +24,30 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 ## 1. Semester
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [GitHub](resources/github.md)
+<details>
+<summary>Nützliche Links</summary>
 
-### Nützliche Links
 - [Flexbox Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Grid Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Snippets](https://www.30secondsofcode.org/css/p/1/)
 - [Grid It](https://grid-it.ninagraessli.ch/)
 - [Squoosh (Bilder optimieren fürs Web)](https://squoosh.app/)
+</details>
 
-#### Flexbox Games
+<details>
+<summary>Flexbox Games</summary>
+
 - [Flexbox Froggy](https://flexboxfroggy.com/#de)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)
+</details>
 
-#### Grid Games
+<details>
+<summary>Grid Games</summary>
+
 - [Grid Garden](https://cssgridgarden.com/#de)
 - [Grid Attack](https://codingfantasy.com/games/css-grid-attack)
+</details>
 
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
