@@ -58,3 +58,4 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 ## Alle Semester
 - [The Valley of Code](https://thevalleyofcode.com/)
+- [G.R.I.P.S. - Gadgets für ressourcenreiche, interaktive, praktische Spezialitäten](https://workshops.jugendtrends.ch/grips/)
