@@ -55,3 +55,6 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 ## Major Media Applications
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
+
+## Alle Semester
+- [The Valley of Code](https://thevalleyofcode.com/)
