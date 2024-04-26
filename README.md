@@ -15,6 +15,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [Coding Conventions](https://github.com/MaxiMilli/MMP-Coding-Conventions)
+- [Copilot](resources/copilot.md)
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
 - [GitHub](resources/github.md)
 - [GitHub Public Repositorys](resources/github_public.md)
