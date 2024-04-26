@@ -9,5 +9,5 @@ GitHub Copilot ist ein KI-gestütztes Tool, das Entwickler:innen dabei unterstü
 Checkliste, damit der Antrag angenommen wird:
 - [ ] 2 factor authentication muss aktiviert sein
 - [ ] Kontaktdaten in Billing Information müssen hinzugefügt sein (Kreditkarte nicht nötig)
-- [ ] Vor- und Nachname auf Student ID muss mit dem Namen auf GitHub übereinstimmen.
 - [ ] Studierendenausweis der FHGR fotografieren, nicht der von der BFH!
+- [ ] Vor- und Nachname auf Student ID muss mit dem Namen auf GitHub übereinstimmen.
