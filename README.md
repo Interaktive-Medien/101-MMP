@@ -12,7 +12,8 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 </div>
 
 ## Von A-Z
-
+- [API-Liste (GitHub)](https://github.com/Interaktive-Medien/API/tree/main)
+- [API-Liste (Google Sheet)](https://docs.google.com/spreadsheets/d/1i4A908XH77iVS3xbcbf0OlAwobGkIOr_RlQ6FALj_OI/edit?usp=sharing)
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [Coding Conventions](https://github.com/MaxiMilli/MMP-Coding-Conventions)
 - [Copilot](resources/copilot.md)
@@ -49,6 +50,10 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Grid Garden](https://cssgridgarden.com/#de)
 - [Grid Attack](https://codingfantasy.com/games/css-grid-attack)
 </details>
+
+## 2. Semester
+- [API-Liste (GitHub)](https://github.com/Interaktive-Medien/API/tree/main)
+- [API-Liste (Google Sheet)](https://docs.google.com/spreadsheets/d/1i4A908XH77iVS3xbcbf0OlAwobGkIOr_RlQ6FALj_OI/edit?usp=sharing)
 
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
