@@ -54,6 +54,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 ## 2. Semester
 - [API-Liste (GitHub)](https://github.com/Interaktive-Medien/API/tree/main)
 - [API-Liste (Google Sheet)](https://docs.google.com/spreadsheets/d/1i4A908XH77iVS3xbcbf0OlAwobGkIOr_RlQ6FALj_OI/edit?usp=sharing)
+- [Cheatsheets JavaScript](resources/js-cheatsheets.md)
 
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
