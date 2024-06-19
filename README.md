@@ -52,6 +52,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 ## 2. Semester
 - [API-Liste (freepublicapis.com)](https://freepublicapis.com)
+- [JavaScript - Interaktive Medien 2](https://github.com/Interaktive-Medien/2024_im2_javascript)
 
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
