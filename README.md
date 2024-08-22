@@ -25,6 +25,10 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 ## 1. Semester
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [GitHub](resources/github.md)
+- [Visual Studio Code](resources/vscode.md)
+- [Hosting](resources/hosting.md)
+- [Promptsammlung](resources/promptsammlung.md)
+- [JavaScript Cheatsheets](resources/js-cheatsheets.md)
 <details>
 <summary>Nützliche Links</summary>
 
@@ -53,10 +57,13 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 ## 2. Semester
 - [API-Liste (freepublicapis.com)](https://freepublicapis.com)
 - [JavaScript - Interaktive Medien 2](https://github.com/Interaktive-Medien/2024_im2_javascript)
+- [GitHub Copilot](resources/copilot.md)
+- [Visual Studio Code](resources/vscode.md)
 
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
+- [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
 
 ## Major Media Applications
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
