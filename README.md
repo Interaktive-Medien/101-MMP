@@ -63,7 +63,25 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 ## 3. Semester
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
-- [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
+
+## 4. Semester
+- [API mit CRON Jobs (ETL)](https://github.com/Interaktive-Medien/FS24-IM4-ETL)
+- [Datenvisualisierungen](https://github.com/nickschnee/data-visualization)
+
+## 5. Semester
+<details>
+<summary>Inspiration und Nützliche Tools</summary>
+
+- [DevDocs](https://devdocs.io/) - Eine API-Dokumentationssuchmaschine für Entwickler.
+- [Codewars](https://www.codewars.com/) - Eine Plattform zum Üben von Programmieraufgaben und Herausforderungen.
+- [Awwwards](https://www.awwwards.com/) - Eine Plattform zur Auszeichnung der besten Webdesigns.
+- [CSS Design Awards](https://www.cssdesignawards.com/) - Eine Plattform zur Auszeichnung der besten CSS-Designs.
+- [Codrops](https://tympanus.net/codrops/) - Eine Website mit Tutorials und Inspirationen für Webdesign und -entwicklung.
+- [CSS-Tricks](https://css-tricks.com/) - Eine Website mit Tipps und Tricks für CSS und Webdesign.
+- [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Ein Tool zur Identifizierung von Schriftarten.
+- [Color Hunt](https://colorhunt.co/) - Eine Plattform zur Entdeckung und Erstellung von Farbpaletten.
+</details>
+
 
 ## Major Media Applications
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
