@@ -1,6 +1,6 @@
 # 101 MMP
 
-In diesem Repository sind Anleitungen und Vorlagen für einen gelungen Start in interaktive Medien abgelegt. 
+In diesem Repository sind Anleitungen und Vorlagen für einen gelungen Start in interaktive Medien abgelegt.
 
 Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
@@ -12,6 +12,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 </div>
 
 ## Von A-Z
+
 - [API-Liste (freepublicapis.com)](https://freepublicapis.com)
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [Coding Conventions](https://github.com/MaxiMilli/MMP-Coding-Conventions)
@@ -19,10 +20,12 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
 - [GitHub](resources/github.md)
 - [GitHub Public Repositorys](resources/github_public.md)
+- [Hosting](https://www.hosttech.ch/webhosting/fhgr/)
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
 
 ## 1. Semester
+
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [GitHub](resources/github.md)
 - [Visual Studio Code](resources/vscode.md)
@@ -30,6 +33,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Promptsammlung](resources/promptsammlung.md)
 - [JavaScript Cheatsheets](resources/js-cheatsheets.md)
 <details>
+
 <summary>Nützliche Links</summary>
 
 - [Flexbox Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -55,20 +59,24 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 </details>
 
 ## 2. Semester
+
 - [API-Liste (freepublicapis.com)](https://freepublicapis.com)
 - [JavaScript - Interaktive Medien 2](https://github.com/Interaktive-Medien/2024_im2_javascript)
 - [GitHub Copilot](resources/copilot.md)
 - [Visual Studio Code](resources/vscode.md)
 
 ## 3. Semester
-- [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
-- [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
 
-## 4. Semester
 - [API mit CRON Jobs (ETL)](https://github.com/Interaktive-Medien/FS24-IM4-ETL)
 - [Datenvisualisierungen](https://github.com/nickschnee/data-visualization)
 
+## 4. Semester
+
+- [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
+- [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
+
 ## 5. Semester
+
 <details>
 <summary>Inspiration und Nützliche Tools</summary>
 
@@ -82,10 +90,11 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Color Hunt](https://colorhunt.co/) - Eine Plattform zur Entdeckung und Erstellung von Farbpaletten.
 </details>
 
-
 ## Major Media Applications
+
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
 
 ## Alle Semester
+
 - [The Valley of Code](https://thevalleyofcode.com/)
 - [G.R.I.P.S. - Gadgets für ressourcenreiche, interaktive, praktische Spezialitäten](https://workshops.jugendtrends.ch/grips/)
