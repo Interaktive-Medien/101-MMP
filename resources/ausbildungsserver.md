@@ -1,6 +1,6 @@
 # Ausbildungsserver
 
-**ACHTUNG: Der Ausbildungsserver ist unzuverlässig und wird deshalb für die Interaktiven Medien 2-5 nicht mehr empfohlen! Bitte nutzt stattdessen ein Gratis-Studierenden-Hosting bei [Infomaniak Education](resources/hosting.md). Diese Anleitung wird ab HS24 nicht mehr gepflegt und ist möglicherweise unvollständig oder veraltet!**
+**ACHTUNG: Der Ausbildungsserver ist unzuverlässig und wird deshalb für die Interaktiven Medien 2-5 nicht mehr empfohlen! Bitte nutzt stattdessen ein Gratis-Studierenden-Hosting bei [Infomaniak Education](hosting.md). Diese Anleitung wird ab HS24 nicht mehr gepflegt und ist möglicherweise unvollständig oder veraltet!**
 
 ## Kapitelübersicht
 

@@ -1,6 +1,6 @@
 # Hosting
 
-- [QuicklinkSFTP Konfiguration](sftp.md)
+- [Quicklink SFTP Konfiguration](sftp.md)
 
 Spätestens ab den Interaktiven Medien 3 braucht ihr ab sofort eine Domain und ein Hosting. Ihr könnt das Hosting als Studierende bei Infomaniak Education **gratis** bestellen.
 
