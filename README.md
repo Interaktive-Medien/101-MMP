@@ -8,7 +8,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 </div>
 <br>
 <div align="center">
-<img src="https://www.fhgr.ch/typo3conf/ext/sfptemplate/RootPage/Default/Resources/Public/Partials/Logo/Images/Logo.svg" width="30%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Fachhochschule_Graub%C3%BCnden_Logo.svg" width="30%">
 </div>
 
 ## Von A-Z
@@ -18,9 +18,12 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Coding Conventions](https://github.com/MaxiMilli/MMP-Coding-Conventions)
 - [Copilot](resources/copilot.md)
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
+- [Git Ignore](resources/gitignore.md)
 - [GitHub](resources/github.md)
 - [GitHub Public Repositorys](resources/github_public.md)
-- [Hosting](https://www.hosttech.ch/webhosting/fhgr/)
+- [Hosting](resources/hosting.md)
+- [Infomaniak](resources/hosting.md)
+- [SFTP Konfiguration / Plugin](resources/sftp.md)
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
 
@@ -69,6 +72,8 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 - [API mit CRON Jobs (ETL)](https://github.com/Interaktive-Medien/FS24-IM4-ETL)
 - [Datenvisualisierungen](https://github.com/nickschnee/data-visualization)
+- [Hosting](resources/hosting.md)
+- [Vorlage Datenbank Config-Datei](resources/db_config_empty.php)
 
 ## 4. Semester
 

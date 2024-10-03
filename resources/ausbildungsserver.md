@@ -1,6 +1,6 @@
 # Ausbildungsserver
 
-Step-by-Step Anleitung, um einen Ausbildungsserver zu erstellen und Dateien  hochzuladen.
+**ACHTUNG: Der Ausbildungsserver ist unzuverlässig und wird deshalb für die Interaktiven Medien 2-5 nicht mehr empfohlen! Bitte nutzt stattdessen ein Gratis-Studierenden-Hosting bei [Infomaniak Education](resources/hosting.md). Diese Anleitung wird ab HS24 nicht mehr gepflegt und ist möglicherweise unvollständig oder veraltet!**
 
 ## Kapitelübersicht
 
@@ -13,30 +13,13 @@ Step-by-Step Anleitung, um einen Ausbildungsserver zu erstellen und Dateien  hoc
 
 Bitte verwendet ab sofort diese Konfiguration für eure `sftp.json` Datei (gesamten Inhalt ersetzen):
 
-```JSON
-
-{
-    "name": "FHGR IM 1",
-    "host": "replace-this-hostname",
-    "protocol": "ftp",
-    "port": 21,
-    "username": "replace-this-username",
-    "password": "replace-this-password",
-    "remotePath": "web/",
-    "uploadOnSave": true,
-    "ignore": [
-        ".vscode",
-        ".git"
-    ]
-}
-
-```
+- [SFTP Konfiguration](resources/sftp.md)
 
 ## Portal Ausbildungsserver
 
-1) Gehe auf [https://my.fhgr.ch/index.php?id=ftpstud](https://my.fhgr.ch/index.php?id=ftpstud)
+1. Gehe auf [https://my.fhgr.ch/index.php?id=ftpstud](https://my.fhgr.ch/index.php?id=ftpstud)
 
-2) Und logge dich rechts oben mit deinem FHGR-Campus Account ein.
+2. Und logge dich rechts oben mit deinem FHGR-Campus Account ein.
 
 ![](images/studiserver_01.png)
 
@@ -44,34 +27,36 @@ Bitte verwendet ab sofort diese Konfiguration für eure `sftp.json` Datei (gesam
 
 ## Ausbildungsserver erstellen
 
-1) Nachdem du dich [eingeloggt](https://my.fhgr.ch/index.php?id=ftpstud) hast, klicke auf 'Neue Website erstellen'
+1. Nachdem du dich [eingeloggt](https://my.fhgr.ch/index.php?id=ftpstud) hast, klicke auf 'Neue Website erstellen'
 
 ![](images/studiserver_02.png)
 
-- Es öffnet sich dieses Formular: 
+- Es öffnet sich dieses Formular:
 
 ![](images/studiserver_03.png)
 
 Gib folgende Informationen ein:
 
-- **Titel:** Der Titel deines Servers. 
-    - Bspw. `Interaktive Medien` oder mit etwas mehr System `HS23_IM1_IMP_News`. 
-    - Der Titel wird später nur hier im Portal in der Serverliste angezeigt und ist rein kosmetisch. Du brauchst diesen nirgendwo sonst.
+- **Titel:** Der Titel deines Servers.
+
+  - Bspw. `Interaktive Medien` oder mit etwas mehr System `HS23_IM1_IMP_News`.
+  - Der Titel wird später nur hier im Portal in der Serverliste angezeigt und ist rein kosmetisch. Du brauchst diesen nirgendwo sonst.
 
 - **Löschdatum:** Nimm ein Datum nach Abschluss deines Studiums, damit du deine Webseiten / Projekte nicht verlierst.
-    - Lege deine Projekte NIE ausschliesslich auf dem Studiserver ab. Mach immer ein Backup auf GitHub, Dropbox oder lokal auf deinem Mac oder PC.
+
+  - Lege deine Projekte NIE ausschliesslich auf dem Studiserver ab. Mach immer ein Backup auf GitHub, Dropbox oder lokal auf deinem Mac oder PC.
 
 - **Datenbanken:** Normalerweise brauchst du keine Datenbank.
 
-... und klicke anschliessend auf `Erstellen`. 
+... und klicke anschliessend auf `Erstellen`.
 
-2) Nun wird dein Webserver hochgefahren. Das dauert normalerweise 15 Minuten bis 1 Stunde. Manchmal dauert es auch länger oder funktioniert gar nicht.
+2. Nun wird dein Webserver hochgefahren. Das dauert normalerweise 15 Minuten bis 1 Stunde. Manchmal dauert es auch länger oder funktioniert gar nicht.
 
 ![](images/studiserver_04.png)
 
 #### Status A – TLS Beheben
 
-- Der Studiserver fährt hoch und *ist noch nicht bereit*. Es kann nicht auf den Server zugegriffen werden.
+- Der Studiserver fährt hoch und _ist noch nicht bereit_. Es kann nicht auf den Server zugegriffen werden.
 
 #### Status B – TLS Fehler
 
@@ -83,13 +68,13 @@ Gib folgende Informationen ein:
 
 ## Mit dem Ausbildungsserver verbinden
 
-1) Sobald der Status deines Ausbildungsservers `OK` ist, kannst du mit dem Server verbinden.
+1. Sobald der Status deines Ausbildungsservers `OK` ist, kannst du mit dem Server verbinden.
 
-2) Klicke auf den Titel deines Ausbildungsservers.
+2. Klicke auf den Titel deines Ausbildungsservers.
 
 ![](images/studiserver_05.png)
 
-3) Nun siehst du die Verbindungsinformationen für deinen Ausbildungsserver
+3. Nun siehst du die Verbindungsinformationen für deinen Ausbildungsserver
 
 ![](images/studiserver_06.png)
 
@@ -101,9 +86,9 @@ Gib folgende Informationen ein:
 
     4) Dein Passwort. Dieses brauchst du, um dich mit dem Webserver zu verbinden.
 
-4) Öffne deinen Code-Editor `Visual Studio Code` und öffne deinen Projektordner.
+4. Öffne deinen Code-Editor `Visual Studio Code` und öffne deinen Projektordner.
 
-5) Falls noch nicht geschehen, lade die Extension / Erweiterung `SFTP` herunter und installiere sie.
+5. Falls noch nicht geschehen, lade die Extension / Erweiterung `SFTP` herunter und installiere sie.
 
 ![](images/studiserver_07.png)
 
@@ -112,19 +97,19 @@ Gib folgende Informationen ein:
     3) Wähle das korrekte Plugin von `Natizyskunk`
     4) Klicke auf `Install` (im Screenshot ist die Extension bereits installiert)
 
-6) Wenn du die Extension installiert hast, gehe zurück in den Code Editor.
+6. Wenn du die Extension installiert hast, gehe zurück in den Code Editor.
 
-7) Drücke auf Mac `CMD + SHIFT + P` oder auf Windows `CTRL + SHIFT + P` um die Command Palette zu öffnen.
+7. Drücke auf Mac `CMD + SHIFT + P` oder auf Windows `CTRL + SHIFT + P` um die Command Palette zu öffnen.
 
-8) Gib `SFTP` ein und wähle `SFTP: Config` um eine neue `sftp.json` Datei zu erstellen.
+8. Gib `SFTP` ein und wähle `SFTP: Config` um eine neue `sftp.json` Datei zu erstellen.
 
 ![](images/studiserver_08.png)
 
-9) Es öffnet sich automatisch die Datei `sftp.json`. Falls nicht, öffne die Datei manuell aus dem Ordner `.vscode` in deinem Projektordner.
+9. Es öffnet sich automatisch die Datei `sftp.json`. Falls nicht, öffne die Datei manuell aus dem Ordner `.vscode` in deinem Projektordner.
 
 ![](images/studiserver_09.png)
 
-10) Ersetze den Inhalt in `sftp.json` mit folgendem Inhalt:
+10. Ersetze den Inhalt in `sftp.json` mit folgendem Inhalt:
 
 ```
 {
@@ -143,25 +128,25 @@ Gib folgende Informationen ein:
 }
 ```
 
-11) Ersetze die Platzhalter bei `host`, `username` und `password` mit den Informationen von deinem Ausbildungsserver.
+11. Ersetze die Platzhalter bei `host`, `username` und `password` mit den Informationen von deinem Ausbildungsserver.
 
 ![](images/studiserver_06.png)
 
 ![](images/studiserver_10.png)
 
-12) Speichere 'sftp.json' mit CMD / resp. CTRL + S
+12. Speichere 'sftp.json' mit CMD / resp. CTRL + S
 
-13) Öffne wiederum die Command-Palette mit `CMD + SHIFT + P` oder `CTRL + SHIFT + P` und gib `SFTP` ein. Wähle `SFTP: Sync Local -> Remote` und Klicke auf den Namen deiner Verbindung.
+13. Öffne wiederum die Command-Palette mit `CMD + SHIFT + P` oder `CTRL + SHIFT + P` und gib `SFTP` ein. Wähle `SFTP: Sync Local -> Remote` und Klicke auf den Namen deiner Verbindung.
 
 ![](images/studiserver_11.png)
 
-14) Wenn alles gut läuft siehst du keine Fehlermeldung. Und links unten im Code-Editor passiert was!
+14. Wenn alles gut läuft siehst du keine Fehlermeldung. Und links unten im Code-Editor passiert was!
 
 ![](images/studiserver_12.png)
 
-15) Prüfe, ob deine Dateien jetzt auf dem Server sind, indem du die Website öffnest.
+15. Prüfe, ob deine Dateien jetzt auf dem Server sind, indem du die Website öffnest.
 
- - Öffne dazu die URL (1) auf myCampus.
+- Öffne dazu die URL (1) auf myCampus.
 
 ![](images/studiserver_06.png)
 
@@ -172,7 +157,6 @@ Gib folgende Informationen ein:
 - [Timeout while connecting to server](#timeout-while-connecting-to-server)
 - [Login authentication failed](#login-authentication-failed)
 - [Can't create directory: Operation not permitted](#cant-create-directory-operation-not-permitted)
-
 
 #### JSON at position x
 
@@ -197,15 +181,14 @@ Gib folgende Informationen ein:
 
 - In der `sftp.json` stimmt der `Benutzername` oder das `Passwort` nicht.
 
-
 #### Can't create directory: Operation not permitted
 
 ![](images/studiserver_17.png)
 
-- Die `sftp.json` Datei wurde nicht mit der Datei aus dieser Anleitung überschrieben. 
+- Die `sftp.json` Datei wurde nicht mit der Datei aus dieser Anleitung überschrieben.
 
-1) Ersetze den **GESAMTEN INHALT** von `sftp.json` mit untenstehendem Inhalt. 
-2) Ersetze dann `host`, `username` und `password` mit den Informationen von deinem Ausbildungsserver.
+1. Ersetze den **GESAMTEN INHALT** von `sftp.json` mit untenstehendem Inhalt.
+2. Ersetze dann `host`, `username` und `password` mit den Informationen von deinem Ausbildungsserver.
 
 ```
 {
