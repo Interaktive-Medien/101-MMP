@@ -13,7 +13,7 @@
 
 Bitte verwendet ab sofort diese Konfiguration für eure `sftp.json` Datei (gesamten Inhalt ersetzen):
 
-- [SFTP Konfiguration](resources/sftp.md)
+- [SFTP Konfiguration](sftp.md)
 
 ## Portal Ausbildungsserver
 
