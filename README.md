@@ -16,9 +16,9 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [API-Liste (freepublicapis.com)](https://freepublicapis.com)
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [Coding Conventions](https://github.com/MaxiMilli/MMP-Coding-Conventions)
-- [Copilot](resources/copilot.md)
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
 - [Git Ignore](resources/gitignore.md)
+- [GitHub Copilot](resources/copilot.md)
 - [GitHub](resources/github.md)
 - [GitHub Public Repositorys](resources/github_public.md)
 - [Hosting](resources/hosting.md)
@@ -26,6 +26,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [SFTP Konfiguration / Plugin](resources/sftp.md)
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
+- [Vorlage Datenbank Config-Datei](resources/db_config_empty.php)
 
 ## 1. Semester
 
