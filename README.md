@@ -23,6 +23,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [GitHub Public Repositorys](resources/github_public.md)
 - [Hosting](resources/hosting.md)
 - [Infomaniak](resources/hosting.md)
+- [PHPView für Google Chrome](https://chromewebstore.google.com/detail/phpview/nlkobfbkblfhlcobdomlhmpbbhmcbkfd)
 - [SFTP Konfiguration / Plugin](resources/sftp.md)
 - [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
 - [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
@@ -74,6 +75,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [API mit CRON Jobs (ETL)](https://github.com/Interaktive-Medien/FS24-IM4-ETL)
 - [Datenvisualisierungen](https://github.com/nickschnee/data-visualization)
 - [Hosting](resources/hosting.md)
+- [PHPView für Google Chrome](https://chromewebstore.google.com/detail/phpview/nlkobfbkblfhlcobdomlhmpbbhmcbkfd)
 - [Vorlage Datenbank Config-Datei](resources/db_config_empty.php)
 
 ## 4. Semester
