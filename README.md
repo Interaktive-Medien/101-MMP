@@ -82,8 +82,9 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 ## 4. Semester
 
-- [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
-- [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
+- [Beispielprojekt Homely Website](https://homely.crazy-internet.ch/)
+- [Beispielprojekt Homely GitHub](https://github.com/Interaktive-Medien/2025_im4_beispielprojekt_homely)
+- [Authentifizierung Minimal Boilerplate](https://github.com/Interaktive-Medien/2025_im4_authentication_minimal_boilerplate)
 
 ## 5. Semester
 
@@ -108,3 +109,13 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 - [The Valley of Code](https://thevalleyofcode.com/)
 - [G.R.I.P.S. - Gadgets für ressourcenreiche, interaktive, praktische Spezialitäten](https://workshops.jugendtrends.ch/grips/)
+
+## Archiv
+
+<details>
+<summary>Supabase</summary>
+
+- [Supabase Repository](https://github.com/Interaktive-Medien/2023_HS_IM3)
+- [Supabase Tutorial](https://github.com/Interaktive-Medien/2023_HS_IM3/blob/main/00_setup/tutorial_supabase.md)
+
+</details>
