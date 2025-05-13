@@ -15,6 +15,9 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 ## Von A-Z
 
+- [AI APIs Demo](https://ai.crazy-internet.ch/index.html)
+- [AI APIs GitHub](https://github.com/Interaktive-Medien/openai-playground)
+- [AI Tools Overview](https://workshops.jugendtrends.ch/aitools/)
 - [API-Liste (freepublicapis.com)](https://freepublicapis.com)
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [Coding Conventions](https://github.com/MaxiMilli/MMP-Coding-Conventions)
@@ -85,6 +88,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Beispielprojekt Homely Website](https://homely.crazy-internet.ch/)
 - [Beispielprojekt Homely GitHub](https://github.com/Interaktive-Medien/2025_im4_beispielprojekt_homely)
 - [Authentifizierung Minimal Boilerplate](https://github.com/Interaktive-Medien/2025_im4_authentication_minimal_boilerplate)
+- [The Password Game](https://neal.fun/password-game/)
 
 ## 5. Semester
 
