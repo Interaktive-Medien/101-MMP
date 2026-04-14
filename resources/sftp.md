@@ -21,7 +21,7 @@ Bitte verwendet ab sofort diese Konfiguration für eure `sftp.json` Datei (gesam
 
 ```
 
-Falls ihr auf dem Studierenden-Server arbeitet, ersetzt bei "remotePath": `"/"` mit `"/web"`
+Falls ihr auf dem Studierenden-Server (!= Hostpoint) arbeitet, ersetzt bei "remotePath": `"/"` mit `"/web"`
 
 ## Anleitung Installation SFTP-Plugin
 

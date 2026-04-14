@@ -1,5 +1,15 @@
 # Hosting
 
+## Für Studierende mit Studienstart 2025 oder später
+
+Ihr habt im 1. Semester das Login für ein Hostpoint-Hosting erhalten. Dieses steht euch während dem ganzen Studium zur Verfügung. Falls du kein Login erhalten hast, melde dich bitte bei deinen Dozierenden.
+
+- [Hostpoint](https://hostpoint.ch)
+
+- [Quicklink und Installationsanleitung SFTP Konfiguration](sftp.md)
+
+## Für Studierende mit Studienstart vor 2025
+
 - [Quicklink SFTP Konfiguration](sftp.md)
 
 Spätestens ab den Interaktiven Medien 3 braucht ihr ab sofort eine Domain und ein Hosting. Ihr könnt das Hosting als Studierende bei Infomaniak Education **gratis** bestellen.
