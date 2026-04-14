@@ -22,7 +22,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [Ausbildungsserver](resources/ausbildungsserver.md)
 - [Coding Conventions](https://github.com/MaxiMilli/MMP-Coding-Conventions)
 - [Data Visualization Repository](https://github.com/nickschnee/data-visualization)
-- [Figma Education License](resources/figma.md)
+- [Figma Education Lizenz](resources/figma.md)
 - [Git Ignore](resources/gitignore.md)
 - [GitHub Copilot](resources/copilot.md)
 - [GitHub](resources/github.md)
