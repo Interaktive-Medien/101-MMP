@@ -1,4 +1,4 @@
-# Visual Studio Code
+# Visual Studio Code (veraltet)
 VS ist ein Code Editor. Dieser wird eingesetzt um Webapplikationen zu erstellen. VS Code eine kostenlose, plattformübergreifende integrierte Entwicklungsumgebung (IDE), die von Microsoft entwickelt wurde. Es ist ein beliebtes und leistungsstarkes Werkzeug, das von Entwicklern weltweit genutzt wird, um Webapplikationen zu schreiben. Die Vorteile auf einen Blick:
 
 ## Installation VS Code

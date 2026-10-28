@@ -13,8 +13,8 @@ Ihr braucht ungefähr 15 Minuten und Zugriff auf euer FHGR-Mailpostfach.
 3. Füllt das Formular aus:
    - **Status:** *I'm a student*
    - weitere Angaben zum Studium nach Bedarf (z. B. *Undergraduate*)
-   - **Name:** Vor- und Nachname wie in eurem FHGR-Konto
-   - **Email:** eure **FHGR-Adresse** (z. B. `vorname.nachname@stud.fhgr.ch`). Private Adressen wie Gmail werden nicht akzeptiert.
+   - **Name:** Vor- und Nachname wie in eurem FHGR-Konto 
+   - **Email:** eure **FHGR-Adresse** (z. B. `vorname.nachname@students.fhgr.ch`). Private Adressen wie Gmail werden nicht akzeptiert.
    - **Country:** Switzerland
 4. Bestätigt die Bedingungen und klickt auf **Apply for free products**.
 

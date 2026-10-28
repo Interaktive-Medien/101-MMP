@@ -7,4 +7,3 @@ Fünfteilige Anleitung für einen einigermaßen sicheren Workflow: **eine Subdom
 3. [Einen FTP-Account für die Subdomain erstellen](03_ftp_account_fuer_subdomain.md)
 4. [Ein Projekt in PhpStorm anlegen](04_projekt_in_phpstorm_anlegen.md)
 5. [Das Projekt per FTP mit der Subdomain verbinden](05_projekt_per_ftp_verbinden.md)
-
