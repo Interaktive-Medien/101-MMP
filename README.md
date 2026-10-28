@@ -28,6 +28,8 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 - [GitHub](resources/github.md)
 - [GitHub Public Repositorys](resources/github_public.md)
 - [Hosting](resources/hosting.md)
+- [Hostpoint und PHPStorm Tutorial](resources/Hostpoint_PhpStorm_Tutorials)
+- [Videotutorial Hostpoint und PHPStorm](https://www.youtube.com/playlist?list=PLLZlqg08CVic)
 - [Infomaniak](resources/hosting.md)
 - [PHPView für Google Chrome](https://chromewebstore.google.com/detail/phpview/nlkobfbkblfhlcobdomlhmpbbhmcbkfd)
 - [SFTP Konfiguration / Plugin](resources/sftp.md)
@@ -37,10 +39,13 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 ## 1. Semester
 
-- [Ausbildungsserver](resources/ausbildungsserver.md)
+- [~~Ausbildungsserver~~](resources/ausbildungsserver.md)
 - [GitHub](resources/github.md)
-- [Visual Studio Code](resources/vscode.md)
+- [~~Visual Studio Code~~](resources/vscode.md)
+- [PHPStorm installieren und registrieren](resources/phpstorm.md)
 - [Hosting](resources/hosting.md)
+- [Hostpoint-PHPStorm Tutorial](resources/Hostpoint_PhpStorm_Tutorials)
+- [Videotutorial Hostpoint und PHPStorm](https://www.youtube.com/playlist?list=PLLZlqg08CVic) (ohne Datenbanken)
 - [Promptsammlung](resources/promptsammlung.md)
 - [JavaScript Cheatsheets](resources/js-cheatsheets.md)
 <details>
@@ -78,6 +83,7 @@ Es dürfen gerne Wünsche für weitere Inhalte angebracht werden.
 
 ## 3. Semester
 
+- [Videotutorial Hostpoint und PHPStorm](https://www.youtube.com/playlist?list=PLLZlqg08CVic)
 - [API mit CRON Jobs (ETL)](https://github.com/Interaktive-Medien/FS24-IM4-ETL)
 - [Datenvisualisierungen](https://github.com/nickschnee/data-visualization)
 - [Hosting](resources/hosting.md)

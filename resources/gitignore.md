@@ -6,6 +6,8 @@ Kopiert diese Zeilen in eine neue Datei namens `.gitignore` im Root-Verzeichnis 
 .DS_Store
 config.php
 .vscode
+.git
+.idea
 ```
 
 Diese Dateien und Ordner werden beim Pushesn nicht auf GitHub hochgeladen. Pro Zeile 1 Datei oder Ordner.
