@@ -67,6 +67,8 @@ Danach **Test Connection** klicken. Es muss _Successfully connected_ erscheinen.
 1. Unter **Tools → Deployment** muss bei **Automatic Upload** ein Haken (Always) gesetzt sein.
 2. In PHPStorm prüfen, was tatsächlich hochgeladen wird: Links auf das Icon mit den **zwei Pfeilen** klicken. Es öffnet sich das Fenster **File Transfer**, das den Upload-Prozess anzeigt. Dort muss beim Speichern stehen, dass die Datei hochgeladen wurde.
 
+   ![File Transfer: Icon mit den zwei Pfeilen und Upload-Protokoll](images/debug_04_file_transfer.jpg)
+
 ## 5. Geht FTP immer noch nicht? Common Fixes
 
 - **Neu aufsetzen:** Den FTP-Account in Hostpoint löschen und neu erstellen ([Teil 3](03_ftp_account_fuer_subdomain.md)). Dann die Konfiguration in PhpStorm ebenfalls löschen und neu abtippen ([Teil 5](05_projekt_per_ftp_verbinden.md)).
