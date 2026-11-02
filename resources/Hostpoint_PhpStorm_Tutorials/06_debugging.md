@@ -57,6 +57,9 @@ In PhpStorm **Tools → Deployment → Configuration…** öffnen und die folgen
    - Der Username enthält **keine** Sonderzeichen (z. B. Punkte!), Leerzeichen oder Umlaute (ä, ö, ü).
 4. **Web server URL:** ist **nicht** der Hostname, sondern die URL eurer Subdomain (am besten aus Hostpoint kopieren).
    Das ist kein Muss für den Upload. Ist sie falsch, öffnet aber _Rechtsklick → Open in Browser_ die falsche Domain.
+5. **Deployment path:** Oben auf den Tab **Mappings** wechseln. Bei **Deployment path** muss ein Slash `/` stehen.
+
+   ![Tab Mappings: Deployment path ist /](images/debug_06_deployment_path.jpg)
 
 Danach **Test Connection** klicken. Es muss _Successfully connected_ erscheinen.
 
