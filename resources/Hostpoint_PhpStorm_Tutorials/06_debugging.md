@@ -65,6 +65,9 @@ Danach **Test Connection** klicken. Es muss _Successfully connected_ erscheinen.
 **Symptom:** Beim Speichern wird nichts hochgeladen.
 
 1. Unter **Tools → Deployment** muss bei **Automatic Upload** ein Haken (Always) gesetzt sein.
+
+   ![Tools → Deployment → Automatic Upload (Always) mit Haken](images/debug_05_automatic_upload.jpg)
+
 2. In PHPStorm prüfen, was tatsächlich hochgeladen wird: Links auf das Icon mit den **zwei Pfeilen** klicken. Es öffnet sich das Fenster **File Transfer**, das den Upload-Prozess anzeigt. Dort muss beim Speichern stehen, dass die Datei hochgeladen wurde.
 
    ![File Transfer: Icon mit den zwei Pfeilen und Upload-Protokoll](images/debug_04_file_transfer.jpg)
