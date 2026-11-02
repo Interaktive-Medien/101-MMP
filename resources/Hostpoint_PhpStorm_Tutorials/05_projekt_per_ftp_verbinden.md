@@ -110,6 +110,6 @@ Unten in der Statusleiste steht nun `im3-Server` statt `<no default server>`. Ab
 
 ---
 
-➡️ **Nächster Schritt:** [Teil 6: Debugging](06_debugging.md)
+➡️ **Nächster Schritt:** [Teil 6: Debugging: Funktioniert das Deployment nicht?](06_debugging.md)
 
 [⬅️ Teil 4: Ein Projekt in PhpStorm anlegen](04_projekt_in_phpstorm_anlegen.md) · [Übersicht](README.md)

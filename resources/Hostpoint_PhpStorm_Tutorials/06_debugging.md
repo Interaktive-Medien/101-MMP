@@ -1,4 +1,4 @@
-# Teil 6: Debugging
+# Teil 6: Debugging: Funktioniert das Deployment nicht?
 
 [← Übersicht](README.md) · Teil 6 von 6
 
