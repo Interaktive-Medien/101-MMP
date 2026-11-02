@@ -61,7 +61,7 @@ In PhpStorm **Tools → Deployment → Configuration…** öffnen und die folgen
 
    ![Tab Mappings: Deployment path ist /](images/debug_06_deployment_path.jpg)
 
-Danach **Test Connection** klicken. Es muss _Successfully connected_ erscheinen.
+Danach zurück im Tab **Connection** auf **Test Connection** klicken. Es muss _Successfully connected_ erscheinen.
 
 ## 4. Wird beim Speichern hochgeladen?
 
