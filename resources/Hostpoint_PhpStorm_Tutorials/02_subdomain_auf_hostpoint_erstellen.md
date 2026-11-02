@@ -1,5 +1,7 @@
 # Teil 2: Eine Subdomain auf Hostpoint erstellen
 
+[← Übersicht](README.md) · Teil 2 von 6
+
 **Ziel:** Im Hostpoint Control Panel eine neue Subdomain (hier `im3.codeanddesign.ch`) als Website anlegen.
 
 **Voraussetzung:** Ein Hostpoint-Webhosting mit einer eigenen Domain (hier `codeanddesign.ch` auf dem Hosting `kapiwebo`).
@@ -23,7 +25,7 @@ Die Domain `abcdwxyz.myhostpoint.ch` wird euch von Hostpoint zur Verfügung gest
 
 ![Domain-Übersicht](images/03_domains.jpg)
 
-Im **Explorer** sieht man den Ordner `~/www` mit einem Unterordner pro Website, genau wie in Teil 1 erklärt.
+Im **Explorer** sieht man den Ordner `~/www` mit einem Unterordner pro Website, genau wie in [Teil 1](01_was_ist_eine_subdomain.md) erklärt.
 
 ![Explorer: Ordner ~/www](images/04_explorer_www.jpg)
 
@@ -72,4 +74,8 @@ Etwas später kommt **Forbidden**. Das ist ein gutes Zeichen: Die Subdomain funk
 - [ ] FreeSSL aktiviert
 - [ ] Aufruf im Browser zeigt *Forbidden* (= bereit für Dateien)
 
-➡️ Weiter mit **Teil 3: Einen FTP-Account für die Subdomain erstellen**
+---
+
+➡️ **Nächster Schritt:** [Teil 3: Einen FTP-Account für die Subdomain erstellen](03_ftp_account_fuer_subdomain.md)
+
+[⬅️ Teil 1: Was ist eine Subdomain?](01_was_ist_eine_subdomain.md) · [Übersicht](README.md)

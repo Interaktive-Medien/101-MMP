@@ -1,5 +1,7 @@
 # Teil 3: Einen FTP-Account für die Subdomain erstellen
 
+[← Übersicht](README.md) · Teil 3 von 6
+
 **Ziel:** Einen eigenen FTP-Zugang anlegen, der **nur** auf den Ordner der Subdomain zugreifen darf. Das ist der Kern des »abgesicherten« Workflows.
 
 **Warum?** Der Haupt-FTP-Account (hier `im_ftp_chef`) hat Zugriff auf `/home/kapiwebo`, also auf *alle* Websites. Wird dieses Passwort in einem Tool gespeichert, geteilt oder geklaut, ist alles in Gefahr. Ein eigener Account pro Projekt begrenzt den Schaden auf diesen einen Ordner.
@@ -52,7 +54,7 @@ Dann auf **Erstellen** klicken.
 
 ## 5. Verbindungsdetails notieren
 
-Nach dem Erstellen zeigt Hostpoint die **FTP-Verbindungsdetails**. Diese braucht man in Teil 5 für PhpStorm:
+Nach dem Erstellen zeigt Hostpoint die **FTP-Verbindungsdetails**. Diese braucht man in [Teil 5](05_projekt_per_ftp_verbinden.md) für PhpStorm:
 
 | Feld | Wert (Beispiel) |
 |---|---|
@@ -77,4 +79,8 @@ Den Pfad kann man später über **Bearbeiten** jederzeit ändern.
 - [ ] Pfad zeigt nur auf `www/<subdomain>`
 - [ ] Benutzername, Server und Passwort notiert
 
-➡️ Weiter mit **Teil 4: Ein Projekt in PhpStorm anlegen**
+---
+
+➡️ **Nächster Schritt:** [Teil 4: Ein Projekt in PhpStorm anlegen](04_projekt_in_phpstorm_anlegen.md)
+
+[⬅️ Teil 2: Eine Subdomain auf Hostpoint erstellen](02_subdomain_auf_hostpoint_erstellen.md) · [Übersicht](README.md)

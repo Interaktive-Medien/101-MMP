@@ -1,5 +1,7 @@
 # Teil 4: Ein Projekt in PhpStorm anlegen
 
+[← Übersicht](README.md) · Teil 4 von 6
+
 **Ziel:** Projektdateien lokal ablegen und in PhpStorm als Projekt öffnen. Als Beispiel dienen die Übungsdateien aus dem GitHub-Repository `Interaktive-Medien/IM3_PHP_DB_DataStory`.
 
 ---
@@ -58,4 +60,8 @@ Links im Bereich **Project** sieht man jetzt alle Ordner und Dateien (`beispielp
 
 > 💡 Wer Git kennt, kann statt *Download ZIP* auch **Clone Repository** im Willkommensfenster verwenden. Dann bleibt die Verbindung zu GitHub erhalten.
 
-➡️ Weiter mit **Teil 5: Das Projekt per FTP mit der Subdomain verbinden**
+---
+
+➡️ **Nächster Schritt:** [Teil 5: Das Projekt per FTP mit der Subdomain verbinden](05_projekt_per_ftp_verbinden.md)
+
+[⬅️ Teil 3: Einen FTP-Account für die Subdomain erstellen](03_ftp_account_fuer_subdomain.md) · [Übersicht](README.md)

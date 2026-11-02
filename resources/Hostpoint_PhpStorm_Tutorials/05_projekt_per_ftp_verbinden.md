@@ -1,8 +1,10 @@
 # Teil 5: Das Projekt per FTP mit der Subdomain verbinden
 
+[← Übersicht](README.md) · Teil 5 von 6
+
 **Ziel:** PhpStorm so einrichten, dass Dateien direkt aus der IDE auf die Subdomain hochgeladen werden, auf Wunsch automatisch bei jedem Speichern.
 
-**Benötigt:** Die Zugangsdaten aus Teil 3 (FTP-Server, Benutzername, Passwort) und das Projekt aus Teil 4.
+**Benötigt:** Die Zugangsdaten aus [Teil 3](03_ftp_account_fuer_subdomain.md) (FTP-Server, Benutzername, Passwort) und das Projekt aus [Teil 4](04_projekt_in_phpstorm_anlegen.md).
 
 ---
 
@@ -25,16 +27,16 @@ Oben links auf **+** klicken, als Typ **FTP** wählen und einen Namen vergeben, 
 | Feld | Eintrag |
 |---|---|
 | Type | `FTP` |
-| Host | `sl340.web.hostpoint.ch` (FTP-Server aus Teil 3) |
+| Host | `sl340.web.hostpoint.ch` (FTP-Server aus [Teil 3](03_ftp_account_fuer_subdomain.md)) |
 | Port | `21` |
 | Username | `im2_hs26@codeanddesign.ch` |
-| Password | Passwort aus Teil 3, **Save password** anhaken |
+| Password | Passwort aus [Teil 3](03_ftp_account_fuer_subdomain.md), **Save password** anhaken |
 | Root path | `/` |
 | Web server URL | `http://im3.codeanddesign.ch` |
 
 **Visible only for this project** angehakt lassen. Dann ist der Server nur in diesem Projekt sichtbar.
 
-**Root path `/`** genügt, weil der FTP-Account ohnehin nur den Subdomain-Ordner sieht (Teil 3).
+**Root path `/`** genügt, weil der FTP-Account ohnehin nur den Subdomain-Ordner sieht ([Teil 3](03_ftp_account_fuer_subdomain.md)).
 
 ![Verbindungsdaten eingetragen](images/04_verbindungsdaten.jpg)
 
@@ -105,3 +107,9 @@ Unten in der Statusleiste steht nun `im3-Server` statt `<no default server>`. Ab
 > ⚠️ **Hinweis zur Sicherheit:** Normales FTP überträgt das Passwort unverschlüsselt. Hostpoint bietet auch **SFTP** an. Wo möglich, ist SFTP die sicherere Wahl (Type: SFTP, Port 22, siehe *Advanced → SSH-Zugang* im Control Panel).
 >
 > Der Workflow bleibt trotzdem »einigermaßen sicher«, weil ein FTP-Account immer nur ein einziges Projekt erreicht.
+
+---
+
+➡️ **Nächster Schritt:** [Teil 6: Debugging](06_debugging.md)
+
+[⬅️ Teil 4: Ein Projekt in PhpStorm anlegen](04_projekt_in_phpstorm_anlegen.md) · [Übersicht](README.md)

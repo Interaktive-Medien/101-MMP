@@ -1,5 +1,7 @@
 # Teil 1: Was ist eine Subdomain?
 
+[← Übersicht](README.md) · Teil 1 von 6
+
 **Ziel:** Verstehen, wie sich eine Subdomain (z. B. `im2.codeanddesign.ch`) von einem Unterordner einer Domain (z. B. `codeanddesign.ch/im1/`) unterscheidet und wo die Dateien auf dem Server liegen.
 
 ---
@@ -67,8 +69,12 @@ www/
 | URL | `domain.ch/projekt/` | `projekt.domain.ch` |
 | Ordner auf dem Server | `www/domain.ch/projekt/` | `www/projekt.domain.ch/` |
 | Getrennt von der Hauptseite? | nein | ja, eigene Website |
-| Eigener, eingeschränkter FTP-Zugang möglich? | umständlich | ja, einfach (→ Teil 3) |
+| Eigener, eingeschränkter FTP-Zugang möglich? | umständlich | ja, einfach (→ [Teil 3](03_ftp_account_fuer_subdomain.md)) |
 
-**Warum Subdomains für den Workflow?** Jedes Projekt bekommt einen eigenen, abgeschotteten Bereich. In Teil 3 erstellen wir dafür einen FTP-Account, der *nur* diesen einen Ordner sieht. Geht etwas schief, ist nur dieses Projekt betroffen.
+**Warum Subdomains für den Workflow?** Jedes Projekt bekommt einen eigenen, abgeschotteten Bereich. In [Teil 3](03_ftp_account_fuer_subdomain.md) erstellen wir dafür einen FTP-Account, der *nur* diesen einen Ordner sieht. Geht etwas schief, ist nur dieses Projekt betroffen.
 
-➡️ Weiter mit **Teil 2: Eine Subdomain auf Hostpoint erstellen**
+---
+
+➡️ **Nächster Schritt:** [Teil 2: Eine Subdomain auf Hostpoint erstellen](02_subdomain_auf_hostpoint_erstellen.md)
+
+[Übersicht](README.md)
